@@ -9,7 +9,7 @@ int main() {
 	int Array[100][100];
 
 	FILE* fp;
-	fp = fopen("02.txt", "r");
+	fp = fopen("01.txt", "r");
 	int size;
 	fscanf(fp, "%d", &size);
 
@@ -20,6 +20,7 @@ int main() {
 			fscanf(fp, "%d", &Array[i][j]);
 		}
 	}
+
 	printf("adjacency matrix:\n");
 	for (int i = 0; i < size; i++)
 	{

@@ -1,5 +1,5 @@
 ﻿  FileName.cpp
-D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\FileName.cpp(12,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\FileName.cpp(14,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\FileName.cpp(20,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  2024.9.25.vcxproj -> D:\大學\Program\大四上\演算法\上機\2024.9.25\x64\Debug\2024.9.25.exe
+D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\2024.9.25\FileName.cpp(12,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\2024.9.25\FileName.cpp(14,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\2024.9.25\FileName.cpp(20,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2024.9.25.vcxproj -> D:\大學\Program\大四上\演算法\上機\2024.9.25\2024.9.25\x64\Debug\2024.9.25.exe

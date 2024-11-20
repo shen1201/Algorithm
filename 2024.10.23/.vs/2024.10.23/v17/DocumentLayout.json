@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FED248F-97D9-43EC-ACAA-932ADD582A67}|2024.10.23\\2024.10.23.vcxproj|D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\2024.10.23\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FED248F-97D9-43EC-ACAA-932ADD582A67}|2024.10.23\\2024.10.23.vcxproj|solutionrelative:2024.10.23\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\2024.10.23\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:2024.10.23\\1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.txt",
+              "DocumentMoniker": "D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\2024.10.23\\1.txt",
+              "RelativeDocumentMoniker": "2024.10.23\\1.txt",
+              "ToolTip": "D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\2024.10.23\\1.txt",
+              "RelativeToolTip": "2024.10.23\\1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-23T08:04:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\2024.10.23\\Source.cpp",
+              "RelativeDocumentMoniker": "2024.10.23\\Source.cpp",
+              "ToolTip": "D:\\\u5927\u5B78\\Program\\\u5927\u56DB\u4E0A\\\u6F14\u7B97\u6CD5\\\u4E0A\u6A5F\\2024.10.23\\2024.10.23\\Source.cpp",
+              "RelativeToolTip": "2024.10.23\\Source.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwEcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T08:04:19.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

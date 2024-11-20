@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\大學\Program\大四上\演算法\上機\2024.11.20\2024.11.20\Source.cpp(89,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\大學\Program\大四上\演算法\上機\2024.11.20\2024.11.20\Source.cpp(99,12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  2024.11.20.vcxproj -> D:\大學\Program\大四上\演算法\上機\2024.11.20\x64\Debug\2024.11.20.exe
